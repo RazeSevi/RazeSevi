@@ -2,26 +2,42 @@
 ===========================
 I’ve been learning to code for over 3 years. I started with HTML, but have really found a passion for front end development.
 
-I’m currently working on my personal website: https://www.xedo.be
+I’m currently working on my personal website: *https://www.xedo.be*
 
-### Skills
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
- 
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  
- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+### 👨‍💻 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://tos.odex.be)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim)](https://github.com/RazeSevi)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/RazeSevi)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RazeSevi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/christophe.1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christophe-de-beule-576a7a1aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Christophe__DB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/christophe.1234/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christophe-de-beule-576a7a1aa/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Christophe__DB)
 
-### Badges
-
-<b>My GitHub Stats</b>
+### 🏆 Github Status
 
 <a href="http://www.github.com/RazeSevi"><img src="https://github-readme-stats.vercel.app/api?username=RazeSevi&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RazeSevi's GitHub stats" /></a>
-
-<a href="http://www.github.com/RazeSevi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RazeSevi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/RazeSevi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazeSevi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
