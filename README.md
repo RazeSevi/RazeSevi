@@ -1,4 +1,4 @@
-Hi 👋 My name is Christophe
+Hey Guys 👋 I'm Christophe
 ===========================
 I’ve been learning to code for over 3 years. I started with HTML, but have really found a passion for front end development . I’m currently working on my personal website: https://www.xedo.be
 
