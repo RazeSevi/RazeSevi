@@ -32,7 +32,7 @@ I’ve been learning to code for over 3 years. I started with HTML, but have rea
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/RazeSevi)
 
-### Socials
+### 🤝 Socials
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/christophe.1234/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christophe-de-beule-576a7a1aa/)
