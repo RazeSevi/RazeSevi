@@ -2,7 +2,7 @@
 ===========================
 I’ve been learning to code for over 4 years. I started with HTML, but have really found a passion for front end development.
 
-🖥️ I’m currently working on my *<a href="https://www.xedo.be" target="_blank">personal website</a>*
+🖥️ I’m currently working on my *<a target="_blank" href="https://www.xedo.be">personal website</a>*
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
