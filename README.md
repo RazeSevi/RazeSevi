@@ -31,7 +31,7 @@ I’ve been learning to code for over 4 years. I started with HTML, but have rea
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim)](https://github.com/RazeSevi)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/RazeSevi)
-[![My Skills](https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png=250x250)](https://groovy-lang.org/)
+![My Skills](https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png|width="48")(https://groovy-lang.org/)
 
 ### 🤝 Socials
 
